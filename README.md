@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mauke509123
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning c++
-- 📫 How to reach me kontakt@maurice-monath.de
+- 📫 How to reach me https://discord.gg/MKWmxmp9DF
 
 <!---
 mauke509123/mauke509123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
